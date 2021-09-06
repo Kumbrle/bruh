@@ -1,0 +1,30 @@
+body{
+    background-color: lightblue;
+}
+
+#para{
+    font-size: 5vw;
+    text-align: center;
+    padding-top: 12vw;
+}
+#para2{
+    text-align: center;
+    padding-top: 7vw;
+}
+
+#a{
+    text-decoration: none;
+    padding: 1vw 5vw;
+    border-style: solid;
+    border-color: white;
+    border-radius: 10vw;
+    color: black;
+    transition: 0.4s ease-in-out;
+    margin-top: 10vw;
+}
+
+#a:hover{
+    border-color: white;
+    background-color: rgb(36, 35, 35);
+    color: white;
+}

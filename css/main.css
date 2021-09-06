@@ -1,0 +1,34 @@
+body{
+    background-color: lightblue;
+}
+
+#main{
+    background-color: rgba(25, 160, 32, 0.507);
+    margin-right: 25vw;
+    margin-left: 25vw;
+    padding-top: 3vw;
+    padding-bottom: 3vw;
+    margin-top: 20vw;
+}
+
+#main_para{
+    text-align: center;
+    font-size: 1.5vw;
+}
+
+a{
+    text-decoration: none;
+    padding: 1vw 5vw;
+    border-style: solid;
+    border-color: white;
+    border-radius: 10vw;
+    color: black;
+    transition: 0.4s ease-in-out;
+    margin-top: 10vw;
+}
+
+a:hover{
+    border-color: white;
+    background-color: rgb(36, 35, 35);
+    color: white;
+}
